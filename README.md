@@ -14,6 +14,7 @@ I also plan to establish a repository CodingTest Advanced Commentary.
 #### Day01. Print
    - Print a string
    - Print Integer a and b
+   - Print a string repeatedly
 
 ## Inquiry
 If you have any questions while reading my solutions,
