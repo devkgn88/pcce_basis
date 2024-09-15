@@ -13,6 +13,7 @@ I also plan to establish a repository CodingTest Advanced Commentary.
 ## Chapter
 #### Day01. Print
    - Print a string
+   - Print Integer a and b
 
 ## Inquiry
 If you have any questions while reading my solutions,
