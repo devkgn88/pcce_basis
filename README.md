@@ -15,6 +15,14 @@ I also plan to establish a repository CodingTest Advanced Commentary.
    - Print a string
    - Print Integer a and b
    - Print a string repeatedly
+   - Print with case changed
+   - Print special characters
+#### Day02. Print, Operation
+   - Printing addition expressions
+   - Print by pasting a string
+   - Twist the string
+   - Distinguish between odd and even
+   - Overwriting strings
 
 ## Inquiry
 If you have any questions while reading my solutions,
