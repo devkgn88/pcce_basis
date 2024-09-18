@@ -5,7 +5,11 @@ public class Run {
 //		Solution01 s1 = new Solution01();
 //		s1.solution("aaaaa", "bbbbb");
 		
-		Solution02 s2 = new Solution02();
-		s2.solution(new String[] {"a","b","c"});
+//		Solution02 s2 = new Solution02();
+//		s2.solution(new String[] {"a","b","c"});
+		
+		Solution03 s3 = new Solution03();
+		s3.solution01("string", 3);
+		s3.solution02("love", 10);
 	}
 }
