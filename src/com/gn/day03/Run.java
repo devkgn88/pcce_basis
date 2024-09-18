@@ -8,8 +8,12 @@ public class Run {
 //		Solution02 s2 = new Solution02();
 //		s2.solution(new String[] {"a","b","c"});
 		
-		Solution03 s3 = new Solution03();
-		s3.solution01("string", 3);
-		s3.solution02("love", 10);
+//		Solution03 s3 = new Solution03();
+//		s3.solution01("string", 3);
+//		s3.solution02("love", 10);
+		
+		Solution04 s4 = new Solution04();
+		System.out.println(s4.solution(9, 91));
+		System.out.println(s4.solution(89, 8));
 	}
 }
