@@ -10,8 +10,12 @@ public class Run {
 //		s2.solution(60,2,3);
 //		s2.solution(55, 10, 5);
 		
-		Solution03 s3 = new Solution03();
-		s3.solution(7);
-		s3.solution(10);
+//		Solution03 s3 = new Solution03();
+//		s3.solution(7);
+//		s3.solution(10);
+		
+		Solution04 s4 = new Solution04();
+		s4.solution("<", "=", 20, 50);
+		s4.solution(">", "!", 41, 78);
 	}
 }
