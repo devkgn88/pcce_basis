@@ -11,9 +11,13 @@ public class Run {
 //		System.out.println("=== 2 ===");
 //		s2.solution(7, 1, new boolean[] {false, false, false, true, false, false, false});
 		
-		Solution03 s3 = new Solution03();
-		s3.solution(2, 6, 1);
-		s3.solution(5, 3, 3);
-		s3.solution(4, 4, 4);
+//		Solution03 s3 = new Solution03();
+//		s3.solution(2, 6, 1);
+//		s3.solution(5, 3, 3);
+//		s3.solution(4, 4, 4);
+		
+		Solution04 s4 = new Solution04();
+		s4.solution(new int[] {3, 4, 5, 2, 1});
+		s4.solution(new int[] {5, 7, 8, 3});
 	}
 }
