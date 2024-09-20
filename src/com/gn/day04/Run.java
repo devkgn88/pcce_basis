@@ -14,8 +14,12 @@ public class Run {
 //		s3.solution(7);
 //		s3.solution(10);
 		
-		Solution04 s4 = new Solution04();
-		s4.solution("<", "=", 20, 50);
-		s4.solution(">", "!", 41, 78);
+//		Solution04 s4 = new Solution04();
+//		s4.solution("<", "=", 20, 50);
+//		s4.solution(">", "!", 41, 78);
+		
+		Solution05 s5 = new Solution05();
+		s5.solution(-4, 7, true);
+		s5.solution(-4, 7, false);
 	}
 }
