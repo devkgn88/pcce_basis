@@ -9,8 +9,11 @@ public class Run {
 //		s2.solution(5, 555);
 //		s2.solution(10, 20);
 		
-		Solution04 s4 = new Solution04();
-		s4.solution(10);
+//		Solution04 s4 = new Solution04();
+//		s4.solution(10);
+		
+		Solution05 s5 = new Solution05();
+		s5.solution(new int[] {1,4,2,5,3});
 		
 	}
 }
