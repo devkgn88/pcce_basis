@@ -21,6 +21,6 @@ public class Run {
 //		s2.solution(6, 4, 2, 5);
 		
 		Solution05 s5 = new Solution05();
-		s5.solution("rermgorpsam", new int[][] {{2,3},{0,7},{5,9},{6,10}});
+		s5.solution01("rermgorpsam", new int[][] {{2,3},{0,7},{5,9},{6,10}});
 	}
 }
