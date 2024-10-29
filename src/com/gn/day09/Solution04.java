@@ -14,7 +14,7 @@ public class Solution04 {
 		for(int i = 0 ; i < my_string.length() ; i++) {
 			answer[i] = my_string.substring(i);
 		}
-		
+ 
 //		for(int i = 0 ; i < answer.length-1 ; i++) {
 //			for(int j = i+1 ; j < answer.length ; j++) {
 //				
