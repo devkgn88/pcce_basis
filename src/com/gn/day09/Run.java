@@ -10,11 +10,22 @@ public class Run {
 //		s2.solution(new String[] {"progressive", "hamburger", "hammer", "ahocorasick"}, 
 //				new int[][] {{0,4},{1,2},{3,5},{7,7}});
 		
-		Solution03 s3 = new Solution03();
-		System.out.println("=== 1 ===");
-		s3.solution("ProgrammerS123", 11);
-		System.out.println("=== 2 ===");
-		s3.solution("He110W0r1d", 5);
+//		Solution03 s3 = new Solution03();
+//		System.out.println("=== 1 ===");
+//		s3.solution("ProgrammerS123", 11);
+//		System.out.println("=== 2 ===");
+//		s3.solution("He110W0r1d", 5);
+		
+		Solution05 s5 = new Solution05();
+		System.out.println("========== 1 ==========");
+		s5.solution("banana", "ana");
+		System.out.println("========== 2 ==========");
+		s5.solution("banana", "nan");
+		System.out.println("========== 3 ==========");
+		s5.solution("banana", "wxyz");
+		System.out.println("========== 4 ==========");
+		s5.solution("banana", "abanana");
+		
 	}
 
 }
