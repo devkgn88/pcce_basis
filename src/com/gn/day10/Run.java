@@ -12,11 +12,17 @@ public class Run {
 //		s2.solution("banana", "abcd");
 //		s2.solution("banana", "bananan");
 		
-		Solution03 s3 = new Solution03();
-		System.out.println("========== Progra21Sremm3 ==========");
-		s3.solution("Progra21Sremm3", 6, 12);	// ProgrammerS123
-		System.out.println("========== Stanley1yelnatS ==========");
-		s3.solution("Stanley1yelnatS", 4, 10);	// Stanley1yelnatS
+//		Solution03 s3 = new Solution03();
+//		System.out.println("========== Progra21Sremm3 ==========");
+//		s3.solution("Progra21Sremm3", 6, 12);	// ProgrammerS123
+//		System.out.println("========== Stanley1yelnatS ==========");
+//		s3.solution("Stanley1yelnatS", 4, 10);	// Stanley1yelnatS
+		
+		Solution04 s4 = new Solution04();
+		System.out.println("========== happy ==========");
+		s4.solution("ihrhbakrfpndopljhygc", 4, 2);
+		System.out.println("========== programmers ==========");
+		s4.solution("programmers", 1, 1);
 		
 	}
 }
