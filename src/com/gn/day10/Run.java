@@ -18,11 +18,17 @@ public class Run {
 //		System.out.println("========== Stanley1yelnatS ==========");
 //		s3.solution("Stanley1yelnatS", 4, 10);	// Stanley1yelnatS
 		
-		Solution04 s4 = new Solution04();
-		System.out.println("========== happy ==========");
-		s4.solution("ihrhbakrfpndopljhygc", 4, 2);
+//		Solution04 s4 = new Solution04();
+//		System.out.println("========== happy ==========");
+//		s4.solution("ihrhbakrfpndopljhygc", 4, 2);
+//		System.out.println("========== programmers ==========");
+//		s4.solution("programmers", 1, 1);
+		
+		Solution05 s5 = new Solution05();
+		System.out.println("========== jerry ==========");
+		s5.solution(3, 1, "qjnwezgrpirldywt");
 		System.out.println("========== programmers ==========");
-		s4.solution("programmers", 1, 1);
+		s5.solution(1, 0, "programmers");
 		
 	}
 }
