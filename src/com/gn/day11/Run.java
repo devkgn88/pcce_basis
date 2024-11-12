@@ -11,8 +11,12 @@ public class Run {
 //		System.out.println("========== [5,10,15] ==========");
 //		s2.solution(15, 5);
 		
-		Solution03 s3 = new Solution03();
-		System.out.println("========== programmers ==========");
-		s3.solution("apporoograpemmemprs", new int[]{1, 16, 6, 15, 0, 10, 11, 3});
+//		Solution03 s3 = new Solution03();
+//		System.out.println("========== programmers ==========");
+//		s3.solution("apporoograpemmemprs", new int[]{1, 16, 6, 15, 0, 10, 11, 3});
+
+		Solution04 s4 = new Solution04();
+		s4.solution(10, 3);
+				
 	}
 }
