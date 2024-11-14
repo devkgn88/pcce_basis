@@ -15,8 +15,15 @@ public class Run {
 //		System.out.println("========== programmers ==========");
 //		s3.solution("apporoograpemmemprs", new int[]{1, 16, 6, 15, 0, 10, 11, 3});
 
-		Solution04 s4 = new Solution04();
-		s4.solution(10, 3);
-				
+//		Solution04 s4 = new Solution04();
+//		s4.solution(10, 3);
+		
+		Solution05 s5 = new Solution05();
+		System.out.println("========== 3 ==========");
+		s5.solution(new int[] {0,0,0,1}, 1);	
+		System.out.println("========== -1 ==========");
+		s5.solution(new int[] {1,0,0,1,0,0}, 4);
+		System.out.println("========== 3 ==========");
+		s5.solution(new int[] {1,1,1,1,0}, 3);
 	}
 }
