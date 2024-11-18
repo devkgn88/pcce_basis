@@ -14,8 +14,18 @@ public class Run {
 //		System.out.println("========== -1 ==========");
 //		s2.solution(new int[] {13, 22, 53, 24, 15, 6});
 		
-		Solution03 s3 = new Solution03();
-		System.out.println("========== [2, 3, 4, 1, 2, 3, 4, 5] ==========");
-		s3.solution(new int[] {1, 2, 3, 4, 5},new int[][] {{1,3},{0,4}});
+//		Solution03 s3 = new Solution03();
+//		System.out.println("========== [2, 3, 4, 1, 2, 3, 4, 5] ==========");
+//		s3.solution(new int[] {1, 2, 3, 4, 5},new int[][] {{1,3},{0,4}});
+		
+		Solution04 s4 = new Solution04();
+		System.out.println("===== 2, 1, 4, 5, 2 =====");
+		s4.solution(new int[] {1, 2, 1, 4, 5, 2, 9});
+		System.out.println("===== 2 =====");
+		s4.solution(new int[] {1, 2, 1});
+		System.out.println("===== -1 =====");
+		s4.solution(new int[] {1,1,1});
+		System.out.println("===== 2, 1, 2, 1, 10, 2 ======");
+		s4.solution(new int[] {1, 2, 1, 2, 1, 10, 2, 1});
 	}
 }
