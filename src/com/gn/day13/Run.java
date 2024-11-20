@@ -18,14 +18,19 @@ public class Run {
 		// 5,2,1이랑 7,5를 나누고
 		// 7,5를 5,2,1앞으로 이동
 		
-		Solution03 s3 = new Solution03();
-		System.out.println("===== u,u =====");
-		s3.solution(new String[] {"u", "u", "l", "r"});
-		System.out.println("===== =====");
-		s3.solution(new String[] {"l"});
-		System.out.println("===== u,l =====");
-		s3.solution(new String[] {"u","r","u","l"});
+//		Solution03 s3 = new Solution03();
+//		System.out.println("===== u,u =====");
+//		s3.solution(new String[] {"u", "u", "l", "r"});
+//		System.out.println("===== =====");
+//		s3.solution(new String[] {"l"});
+//		System.out.println("===== u,l =====");
+//		s3.solution(new String[] {"u","r","u","l"});
 		
+		Solution04 s4 = new Solution04();
+		System.out.println("===== 2 =====");
+		s4.solution(new int[] {2,1,6}, 1);
+		System.out.println("===== 5,2,1 =====");
+		s4.solution(new int[] {5,2,1,7,5}, 3);
 		
 		
 	}
