@@ -26,11 +26,17 @@ public class Run {
 //		System.out.println("===== u,l =====");
 //		s3.solution(new String[] {"u","r","u","l"});
 		
-		Solution04 s4 = new Solution04();
-		System.out.println("===== 2 =====");
-		s4.solution(new int[] {2,1,6}, 1);
-		System.out.println("===== 5,2,1 =====");
-		s4.solution(new int[] {5,2,1,7,5}, 3);
+//		Solution04 s4 = new Solution04();
+//		System.out.println("===== 2 =====");
+//		s4.solution(new int[] {2,1,6}, 1);
+//		System.out.println("===== 5,2,1 =====");
+//		s4.solution(new int[] {5,2,1,7,5}, 3);
+		
+		Solution05 s5 = new Solution05();
+		System.out.println("===== 4,6,7 =====");
+		s5.solution(new int[] {4, 2, 6, 1, 7, 6}, 2);
+		System.out.println("===== 4,7 =====");
+		s5.solution(new int[] {4, 2, 6, 1, 7, 6}, 4);
 		
 		
 	}
