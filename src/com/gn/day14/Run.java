@@ -8,8 +8,20 @@ public class Run {
 //		System.out.println("===== 8 =====");
 //		s1.solution(new int[] {-1, 2, 5, 6, 3});
 		
-		Solution02 s2 = new Solution02();
-		System.out.println("===== nami,vex =====");
-		s2.solution(new String[] {"nami", "ahri", "jayce", "garen", "ivern", "vex", "jinx"});
+//		Solution02 s2 = new Solution02();
+//		System.out.println("===== nami,vex =====");
+//		s2.solution(new String[] {"nami", "ahri", "jayce", "garen", "ivern", "vex", "jinx"});
+	
+//		Solution03 s3 = new Solution03();
+//		System.out.println("===== practiceguitar,studygraph =====");
+//		s3.solution(new String[]{"problemsolving", "practiceguitar", "swim", "studygraph"}
+//		, new boolean[] {true, false, true, false});
+		
+		Solution04 s4 = new Solution04();
+		System.out.println("===== 139 =====");
+		s4.solution(new int[] {34, 5, 71, 29, 100, 34}, 123);
+		System.out.println("===== 239 =====");
+		s4.solution(new int[] {58, 44, 27, 10, 100}, 139);
+		
 	}
 }
