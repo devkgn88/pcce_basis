@@ -23,9 +23,9 @@ public class Run {
 //		System.out.println("===== 239 =====");
 //		s4.solution(new int[] {58, 44, 27, 10, 100}, 139);
 		
-		Solution05 s5 = new Solution05();
-		s5.solution(new int[] {0, 1, 2, 3, 4}, 
-				new int[][] {{0,1},{1,2},{2,3}});
+//		Solution05 s5 = new Solution05();
+//		s5.solution(new int[] {0, 1, 2, 3, 4}, 
+//				new int[][] {{0,1},{1,2},{2,3}});
 		
 		// 0,0,0,0,0
 		// 1,1,0,0,0
