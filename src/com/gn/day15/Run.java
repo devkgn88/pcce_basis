@@ -11,11 +11,18 @@ public class Run {
 //		System.out.println("=====11=====");
 //		s3.solution(new int[] {12, 4, 15, 1, 14});
 		
-		Solution04 s4 = new Solution04();
-		System.out.println("=====51=====");
-		s4.solution(new int[] {3, 4, 5, 2, 5, 4, 6, 7, 3, 7, 2, 2, 1});
-		System.out.println("=====120=====");
-		s4.solution(new int[] {2, 3, 4, 5});
+//		Solution04 s4 = new Solution04();
+//		System.out.println("=====51=====");
+//		s4.solution(new int[] {3, 4, 5, 2, 5, 4, 6, 7, 3, 7, 2, 2, 1});
+//		System.out.println("=====120=====");
+//		s4.solution(new int[] {2, 3, 4, 5});
+		
+		Solution05 s5 = new Solution05();
+		System.out.println("=====1=====");
+		s5.solution("AbCdEfG", "aBc");
+		System.out.println("=====0=====");
+		s5.solution("aaAA", "aaaaa");
+		
 		
 	}
 
