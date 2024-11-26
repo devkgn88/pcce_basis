@@ -14,11 +14,19 @@ public class Run {
 //		System.out.println("===== aaa =====");
 //		s2.solution("aaa");
 		
-		Solution03 s3 = new Solution03();
-		System.out.println("===== \"aaa\",\"BBB\",\"ccc\",\"DDD\" =====");
-		s3.solution(new String[] {"AAA","BBB","CCC","DDD"});
-		System.out.println("===== \"abc\",\"ABC\" =====");
-		s3.solution(new String[] {"aBc","AbC"});
+//		Solution03 s3 = new Solution03();
+//		System.out.println("===== \"aaa\",\"BBB\",\"ccc\",\"DDD\" =====");
+//		s3.solution(new String[] {"AAA","BBB","CCC","DDD"});
+//		System.out.println("===== \"abc\",\"ABC\" =====");
+//		s3.solution(new String[] {"aBc","AbC"});
+		
+		Solution04 s4 = new Solution04();
+		System.out.println("AbstrAct AlgebrA");
+		s4.solution("abstract algebra");
+		System.out.println("progrAmmers");
+		s4.solution("PrOgRaMmErS");
+		
+		
 		
 	}
 }
