@@ -20,13 +20,17 @@ public class Run {
 //		System.out.println("===== \"abc\",\"ABC\" =====");
 //		s3.solution(new String[] {"aBc","AbC"});
 		
-		Solution04 s4 = new Solution04();
-		System.out.println("AbstrAct AlgebrA");
-		s4.solution("abstract algebra");
-		System.out.println("progrAmmers");
-		s4.solution("PrOgRaMmErS");
+//		Solution04 s4 = new Solution04();
+//		System.out.println("AbstrAct AlgebrA");
+//		s4.solution("abstract algebra");
+//		System.out.println("progrAmmers");
+//		s4.solution("PrOgRaMmErS");
 		
-		
+		Solution05 s5 = new Solution05();
+		System.out.println("===== Programmers =====");
+		s5.solution("programmers", "p");
+		System.out.println("===== lowercase =====");
+		s5.solution("lowercase", "x");
 		
 	}
 }
