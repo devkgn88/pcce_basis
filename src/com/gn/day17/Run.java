@@ -7,9 +7,9 @@ public class Run {
 //		s1.solution("AbCdEFG", "dE");
 //		s1.solution("AAAAaaaa", "a");
 		
-		Solution02 s2 = new Solution02();
-		s2.solution("banana", "ana");
-		s2.solution("aaaa", "aa");
+//		Solution02 s2 = new Solution02();
+//		s2.solution("banana", "ana");
+//		s2.solution("aaaa", "aa");
 		
 		
 	}
